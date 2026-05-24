@@ -1,7 +1,5 @@
 # 🎵 dangerous_data_mj_statistics
 
-> *"The way you make me feel... about data."*
-
 Statistical analysis applied to a real Michael Jackson dataset —
 built as part of my MBA in Data Science, AI and Analytics at USP/ESALQ.
 
@@ -22,16 +20,16 @@ Every analysis uses real singles, albums, chart positions and sales figures.
 
 | Variable | Type | Description |
 |---|---|---|
-| Single | Qualitative | Song title |
-| Album | Qualitative | Source album |
-| Year | Quantitative (discrete) | Release year |
-| Peak EUA | Quantitative (discrete) | Best position on Billboard Hot 100 |
+| Single         | Qualitative | Song title |
+| Album          | Qualitative | Source album |
+| Year           | Quantitative (discrete) | Release year |
+| Peak EUA       | Quantitative (discrete) | Best position on Billboard Hot 100 |
 | Sem. Chart EUA | Quantitative (discrete) | Weeks on Billboard Hot 100 |
 | Vendas Album (mi) | Quantitative (continuous) | Album worldwide sales (millions) |
-| Tem Clipe | Qualitative (binary) | Official music video: Yes/No |
+| Tem Clipe      | Qualitative (binary) | Official music video: Yes/No |
 | Gênero Musical | Qualitative | Musical genre |
-| Duração (min) | Quantitative (continuous) | Single duration in minutes |
-| Grammys | Quantitative (discrete) | Grammy Awards for the album |
+| Duração (min)  | Quantitative (continuous) | Single duration in minutes |
+| Grammys        | Quantitative (discrete) | Grammy Awards for the album |
 
 **26 singles | 6 studio albums | 1979–2025**
 
@@ -85,11 +83,11 @@ dangerous_data_mj_statistics/
 
 | Question | Result |
 |---|---|
-| Do MJ singles stay more than 15 weeks on chart? | ✅ Yes — T=1.99, p=2.9% (reject H0) |
-| Does Peak EUA correlate with weeks on chart? | ✅ Yes — r=−0.75, significant |
+| Do MJ singles stay more than 15 weeks on chart?     | ✅ Yes — T=1.99, p=2.9% (reject H0) |
+| Does Peak EUA correlate with weeks on chart?        | ✅ Yes — r=−0.75, significant |
 | Does having a music video impact chart performance? | 📊 Analyzed — see hypothesis testing |
-| Is Thriller a statistical outlier in album sales? | ✅ Yes — confirmed by IQR rule |
-| Does musical genre affect reaching #1? | 📊 Chi-square test applied |
+| Is Thriller a statistical outlier in album sales?   | ✅ Yes — confirmed by IQR rule |
+| Does musical genre affect reaching #1?              | 📊 Chi-square test applied |
 
 ---
 
@@ -105,16 +103,16 @@ dangerous_data_mj_statistics/
 
 **Course:** MBA in Data Science, AI and Analytics
 **Institution:** USP/ESALQ — Universidade de São Paulo / ESALQ
-**Module:** Fundamentos de Estatística I, II e III
+**Module:** Fundamentos de Estatística
 **Instructor:** Prof. Dr. Wilson Tarantin Junior
 
 ---
 
 ## 👤 Author
 
-**Eric Renato da Silva**
+**Eric Renato **
 Data Analyst | 15+ years in corporate financial systems
-
+ 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-renato)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/EricRenato)
 
@@ -128,4 +126,4 @@ ChartMasters.org · Billboard · RIAA · AllMusic.
 
 ---
 
-*"Started with Thriller. Ended with data."* 🎤📊
+"Started with "Wanna Be Startin' Somethin'" and along the journey I realized how "Bad" he was and I'll end up explaining "HIStory"."
