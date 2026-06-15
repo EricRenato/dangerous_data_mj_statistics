@@ -1,0 +1,28 @@
+single_id,album_id,album,album_year,single,single_year,decade,genre,genre_primary,duration_min,peak_us,peak_uk,weeks_chart_us,reached_no1_us,has_video,award,tracks,album_sales_mi,album_grammys,album_weeks_no1_bb200
+1,1,Off the Wall,1979,Don't Stop 'Til You Get Enough,1979,1970,Disco/Soul,Disco,3.62,1,3,24,True,True,Grammy Melhor R&B,10,20,1,1
+2,1,Off the Wall,1979,Rock with You,1980,1980,Disco/Soul,Disco,3.65,1,7,24,True,True,,10,20,1,1
+3,1,Off the Wall,1979,She's Out of My Life,1980,1980,Soft Rock/Pop,Soft Rock,3.35,10,3,18,False,True,,10,20,1,1
+4,2,Thriller,1982,The Girl Is Mine,1982,1980,Pop/R&B,Pop,3.42,2,8,21,False,True,,9,70,8,37
+5,2,Thriller,1982,Beat It,1983,1980,Hard Rock/Pop,Hard Rock,4.18,1,3,22,True,True,MTV VMA,9,70,8,37
+6,2,Thriller,1982,Billie Jean,1983,1980,Funk/Pop,Funk,4.98,1,1,25,True,True,1º clipe negro MTV heavy rotation,9,70,8,37
+7,2,Thriller,1982,Human Nature,1983,1980,Soft Rock/Pop,Soft Rock,4.33,7,,16,False,False,,9,70,8,37
+8,2,Thriller,1982,P.Y.T.,1983,1980,Pop/Funk,Pop,3.98,10,,14,False,False,,9,70,8,37
+9,2,Thriller,1982,Wanna Be Startin' Somethin',1983,1980,Afrobeat/Pop,Afrobeat,6.03,5,8,18,False,True,,9,70,8,37
+10,2,Thriller,1982,Thriller,1984,1980,Pop/R&B,Pop,5.57,4,10,16,False,True,Maior clipe da história,9,70,8,37
+11,3,Bad,1987,Bad,1987,1980,New Jack Swing,New Jack Swing,4.07,1,3,18,True,True,Grammy Melhor Clipe,11,35,0,6
+12,3,Bad,1987,I Just Can't Stop Loving You,1987,1980,Pop/R&B,Pop,4.12,1,1,16,True,True,,11,35,0,6
+13,3,Bad,1987,Dirty Diana,1988,1980,Hard Rock/Pop,Hard Rock,4.43,1,4,16,True,True,,11,35,0,6
+14,3,Bad,1987,Man in the Mirror,1988,1980,Gospel/Pop,Gospel,5.18,1,21,18,True,True,Grammy Melhor Clipe,11,35,0,6
+15,3,Bad,1987,Smooth Criminal,1988,1980,Pop/Funk,Pop,4.32,7,8,14,False,True,,11,35,0,6
+16,3,Bad,1987,The Way You Make Me Feel,1988,1980,New Jack Swing,New Jack Swing,4.97,1,3,18,True,True,,11,35,0,6
+17,4,Dangerous,1991,Black or White,1991,1990,New Jack Swing,New Jack Swing,4.15,1,1,19,True,True,MTV VMA / Estreou 27 países,14,32,0,4
+18,4,Dangerous,1991,Heal the World,1992,1990,Pop/R&B,Pop,6.23,27,2,12,False,True,,14,32,0,4
+19,4,Dangerous,1991,In the Closet,1992,1990,New Jack Swing,New Jack Swing,4.0,6,8,14,False,True,,14,32,0,4
+20,4,Dangerous,1991,Remember the Time,1992,1990,New Jack Swing,New Jack Swing,4.03,3,3,16,False,True,MTV VMA Melhor Coreografia,14,32,0,4
+21,4,Dangerous,1991,Will You Be There,1993,1990,Gospel/Pop,Gospel,3.82,18,9,12,False,False,,14,32,0,4
+22,5,HIStory,1995,Earth Song,1995,1990,Gospel/R&B,Gospel,6.45,,1,,,True,BRIT Award Melhor Clipe | Não lançado nos EUA,15,22,1,1
+23,5,HIStory,1995,Scream,1995,1990,New Jack Swing,New Jack Swing,4.57,5,3,16,False,True,Grammy / Clipe mais caro da época,15,22,1,1
+24,5,HIStory,1995,You Are Not Alone,1995,1990,R&B/Soul,R&B,4.02,1,1,16,True,True,1º single a estrear #1 Billboard,15,22,1,1
+25,5,HIStory,1995,They Don't Care About Us,1996,1990,R&B/Hip-Hop,R&B,4.47,30,4,10,False,True,2 versões (Brasil/EUA),15,22,1,1
+26,6,Invincible,2001,Cry,2001,2000,R&B/Soul,R&B,4.97,25,25,8,False,True,,16,13,0,0
+27,6,Invincible,2001,You Rock My World,2001,2000,R&B/Pop,R&B,5.37,10,2,12,False,True,,16,13,0,0

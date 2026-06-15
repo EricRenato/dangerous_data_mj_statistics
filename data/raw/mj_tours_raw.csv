@@ -1,0 +1,4 @@
+tour,tour_id,year_start,year_end,shows,countries,cities,audience_total_mi,audience_avg_show,revenue_total_usd_mi,revenue_avg_show_usd_mi,sponsor,note
+Bad World Tour,T01,1987,1989,123,15,15,"4,4",35772,125,"1,02",Pepsi,Guinness: maior turnê da história até então
+Dangerous World Tour,T02,1992,1993,70,19,27,"3,9",55714,100,"1,43",Pepsi,100% dos lucros doados à Heal the World Foundation
+HIStory World Tour,T03,1996,1997,82,35,57,"4,5",54878,165,"2,01",—,Turnê solo mais lucrativa dos anos 1990

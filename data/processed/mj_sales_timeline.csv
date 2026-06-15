@@ -1,0 +1,222 @@
+year,album,cumulative_sales_mi
+1987,Bad,8.0
+1988,Bad,20.0
+1989,Bad,28.0
+1990,Bad,30.0
+1991,Bad,32.0
+1992,Bad,33.0
+1993,Bad,34.0
+1994,Bad,34.5
+1995,Bad,35.0
+1996,Bad,35.2
+1997,Bad,35.3
+1998,Bad,35.4
+1999,Bad,35.4
+2000,Bad,35.4
+2001,Bad,35.4
+2002,Bad,35.4
+2003,Bad,35.4
+2004,Bad,35.4
+2005,Bad,35.4
+2006,Bad,35.4
+2007,Bad,35.4
+2008,Bad,35.4
+2009,Bad,35.5
+2010,Bad,35.5
+2011,Bad,35.5
+2012,Bad,35.5
+2013,Bad,35.5
+2014,Bad,35.5
+2015,Bad,35.5
+2016,Bad,35.5
+2017,Bad,35.5
+2018,Bad,35.5
+2019,Bad,35.5
+2020,Bad,35.5
+2021,Bad,35.5
+2022,Bad,35.5
+2023,Bad,35.5
+2024,Bad,35.5
+2025,Bad,35.5
+1991,Dangerous,4.0
+1992,Dangerous,15.0
+1993,Dangerous,26.0
+1994,Dangerous,28.0
+1995,Dangerous,29.0
+1996,Dangerous,30.0
+1997,Dangerous,30.5
+1998,Dangerous,31.0
+1999,Dangerous,31.2
+2000,Dangerous,31.5
+2001,Dangerous,31.7
+2002,Dangerous,31.8
+2003,Dangerous,31.9
+2004,Dangerous,32.0
+2005,Dangerous,32.0
+2006,Dangerous,32.0
+2007,Dangerous,32.0
+2008,Dangerous,32.0
+2009,Dangerous,32.0
+2010,Dangerous,32.0
+2011,Dangerous,32.0
+2012,Dangerous,32.0
+2013,Dangerous,32.0
+2014,Dangerous,32.0
+2015,Dangerous,32.0
+2016,Dangerous,32.0
+2017,Dangerous,32.0
+2018,Dangerous,32.0
+2019,Dangerous,32.0
+2020,Dangerous,32.0
+2021,Dangerous,32.0
+2022,Dangerous,32.0
+2023,Dangerous,32.0
+2024,Dangerous,32.0
+2025,Dangerous,32.0
+1995,HIStory,6.0
+1996,HIStory,14.0
+1997,HIStory,18.0
+1998,HIStory,20.0
+1999,HIStory,21.0
+2000,HIStory,21.5
+2001,HIStory,22.0
+2002,HIStory,22.1
+2003,HIStory,22.2
+2004,HIStory,22.3
+2005,HIStory,22.4
+2006,HIStory,22.5
+2007,HIStory,22.6
+2008,HIStory,22.7
+2009,HIStory,22.8
+2010,HIStory,22.8
+2011,HIStory,22.9
+2012,HIStory,22.9
+2013,HIStory,22.9
+2014,HIStory,22.9
+2015,HIStory,22.9
+2016,HIStory,22.9
+2017,HIStory,23.0
+2018,HIStory,23.0
+2019,HIStory,23.0
+2020,HIStory,23.0
+2021,HIStory,23.0
+2022,HIStory,23.0
+2023,HIStory,23.0
+2024,HIStory,23.0
+2025,HIStory,23.0
+2001,Invincible,3.0
+2002,Invincible,6.0
+2003,Invincible,8.0
+2004,Invincible,9.0
+2005,Invincible,9.5
+2006,Invincible,9.7
+2007,Invincible,9.9
+2008,Invincible,10.0
+2009,Invincible,10.5
+2010,Invincible,11.0
+2011,Invincible,11.5
+2012,Invincible,12.0
+2013,Invincible,12.2
+2014,Invincible,12.4
+2015,Invincible,12.6
+2016,Invincible,12.8
+2017,Invincible,12.9
+2018,Invincible,13.0
+2019,Invincible,13.0
+2020,Invincible,13.0
+2021,Invincible,13.0
+2022,Invincible,13.0
+2023,Invincible,13.0
+2024,Invincible,13.0
+2025,Invincible,13.0
+1979,Off the Wall,1.0
+1980,Off the Wall,4.0
+1981,Off the Wall,6.0
+1982,Off the Wall,7.0
+1983,Off the Wall,8.0
+1984,Off the Wall,9.0
+1985,Off the Wall,10.0
+1986,Off the Wall,11.0
+1987,Off the Wall,12.0
+1988,Off the Wall,13.0
+1989,Off the Wall,14.0
+1990,Off the Wall,15.0
+1991,Off the Wall,16.0
+1992,Off the Wall,17.0
+1993,Off the Wall,18.0
+1994,Off the Wall,19.0
+1995,Off the Wall,19.5
+1996,Off the Wall,20.0
+1997,Off the Wall,20.2
+1998,Off the Wall,20.3
+1999,Off the Wall,20.4
+2000,Off the Wall,20.5
+2001,Off the Wall,20.6
+2002,Off the Wall,20.7
+2003,Off the Wall,20.8
+2004,Off the Wall,20.9
+2005,Off the Wall,21.0
+2006,Off the Wall,21.0
+2007,Off the Wall,21.1
+2008,Off the Wall,21.2
+2009,Off the Wall,21.5
+2010,Off the Wall,21.6
+2011,Off the Wall,21.6
+2012,Off the Wall,21.7
+2013,Off the Wall,21.7
+2014,Off the Wall,21.8
+2015,Off the Wall,21.8
+2016,Off the Wall,21.9
+2017,Off the Wall,21.9
+2018,Off the Wall,21.9
+2019,Off the Wall,22.0
+2020,Off the Wall,22.0
+2021,Off the Wall,22.0
+2022,Off the Wall,22.0
+2023,Off the Wall,22.0
+2024,Off the Wall,22.0
+2025,Off the Wall,22.0
+1982,Thriller,2.0
+1983,Thriller,21.0
+1984,Thriller,37.0
+1985,Thriller,39.0
+1986,Thriller,40.0
+1987,Thriller,42.0
+1988,Thriller,44.0
+1989,Thriller,45.0
+1990,Thriller,46.0
+1991,Thriller,48.0
+1992,Thriller,49.0
+1993,Thriller,50.0
+1994,Thriller,51.0
+1995,Thriller,52.0
+1996,Thriller,53.0
+1997,Thriller,54.0
+1998,Thriller,55.0
+1999,Thriller,56.0
+2000,Thriller,57.0
+2001,Thriller,58.0
+2002,Thriller,59.0
+2003,Thriller,60.0
+2004,Thriller,61.0
+2005,Thriller,62.0
+2006,Thriller,62.5
+2007,Thriller,63.0
+2008,Thriller,63.5
+2009,Thriller,66.0
+2010,Thriller,67.0
+2011,Thriller,67.5
+2012,Thriller,68.0
+2013,Thriller,68.5
+2014,Thriller,69.0
+2015,Thriller,69.5
+2016,Thriller,70.0
+2017,Thriller,70.5
+2018,Thriller,71.0
+2019,Thriller,71.5
+2020,Thriller,72.0
+2021,Thriller,72.5
+2022,Thriller,73.0
+2023,Thriller,73.5
+2024,Thriller,74.0
+2025,Thriller,74.5

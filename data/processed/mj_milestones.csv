@@ -1,0 +1,11 @@
+milestone_id,milestone,category,year,source,description,still_valid,still_valid_flag
+M01,Álbum mais vendido da história,Vendas,1982,Guinness World Records,Thriller com estimativa de 70 mi de cópias vendidas,Sim,True
+M02,Primeiro artista a estrear #1 na Billboard,Chart,1995,Billboard Hot 100,"You Are Not Alone estreou diretamente no #1, inédito na história",Sim,True
+M03,Primeiro clipe negro em heavy rotation na MTV,Audiovisual,1983,MTV,Billie Jean quebrou barreira racial na emissora em 1983,Sim,True
+M04,Maior nº de Grammys em uma única noite,Premiação,1984,Grammy Awards,8 Grammys na cerimônia de 1984 — recorde empatado só por Santana,Sim,True
+M05,Turnê solo mais lucrativa dos anos 1990,Turnê,1997,Guinness World Records,"HIStory World Tour: USD 165 mi e 4,5 mi de pessoas",Sim,True
+M06,Álbum com mais semanas no topo da Billboard,Chart,1983,Billboard 200,"Thriller ficou 37 semanas no #1, recorde para álbum solo",Sim,True
+M07,Clipe mais caro da história (à época),Audiovisual,1995,Guinness World Records,Scream (com Janet Jackson) custou USD 7 mi,Não — superado,False
+M08,Primeiro a produzir 5 #1 de um mesmo álbum,Chart,1988,Billboard Hot 100,Bad gerou 5 singles consecutivos #1 nos EUA,Sim,True
+M09,Entertainer mais bem-sucedido de todos os tempos,Geral,2006,Guinness World Records,Reconhecimento oficial pelo conjunto da obra,Sim,True
+M10,Maior audiência Grammy na história da TV,Premiação,1984,Nielsen Ratings,"51,67 mi de espectadores assistiram à cerimônia do Grammy de 1984",Sim,True
